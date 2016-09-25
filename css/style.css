@@ -336,7 +336,7 @@
 	.header .logo{
 		float:left;
 		margin-left: 4px;
-		font-size: 23px; 
+		font-size: 22px; 
 	}
 	.header .nav{
 		position: relative;
@@ -346,7 +346,7 @@
 	.header .nav ul li{
 		display:inline; 
 		padding-left: 0px;
-		font-size: 17px;
+		font-size: 15px;
 	}
 	.header .nav a{
 		text-decoration: none;
@@ -460,25 +460,25 @@
 	}
 	.section4 .part41 .wall .show .pic1{
 		width: 100%;
-		height: 134px;
+		height: 130px;
 		background-image: url(../image/img01.png);
 		background-size:cover;
 	}
 	.section4 .part41 .wall .show .pic2{
 		width: 100%;
-		height: 134px;
+		height: 132px;
 		background-image: url(../image/img02.png);
 		background-size:cover;
 	}
 	.section4 .part41 .wall .show .pic3{
 		width: 100%;
-		height: 134px;
+		height: 132px;
 		background-image: url(../image/img03.png);
 		background-size:cover;
 	}
 	.section4 .part41 .wall .show .pic4{
 		width: 100%;
-		height: 134px;
+		height: 130px;
 		background-image: url(../image/img04.png);
 		background-size:cover;
 	}
