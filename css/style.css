@@ -328,15 +328,15 @@
 		top:0;
 		width:100%;
 		font-size: 20px;
-		height: 56px; 
-		line-height: 56px;
+		height: 46px; 
+		line-height: 46px;
 		color: #fff; 
 		background-color: #000;
 	}
 	.header .logo{
 		float:left;
-		margin-left: 10px;
-		font-size: 25px; 
+		margin-left: 4px;
+		font-size: 23px; 
 	}
 	.header .nav{
 		position: relative;
@@ -346,7 +346,7 @@
 	.header .nav ul li{
 		display:inline; 
 		padding-left: 0px;
-		font-size: 16px;
+		font-size: 17px;
 	}
 	.header .nav a{
 		text-decoration: none;
@@ -367,7 +367,7 @@
 	}
 	.section1 .part11{
 		width: 480px;
-		height: 80px;
+		height: 60px;
 	}	
 	.section1 .part11 .text11{
 		float: left;
@@ -389,7 +389,7 @@
 	.section1 .part12{
 		width: 355px;
 		height: 80px;
-		margin-top: 60px;
+		margin-top: 50px;
 		float: left;
 		position:relative;
 	}
@@ -397,7 +397,7 @@
 		line-height:30px;
 	}
 	.section2 {
-		padding-top: 100px;
+		padding-top: 70px;
 		padding-left: 8px;
 	}
 	.section2 .part21{
@@ -408,25 +408,23 @@
 	}
 	.section2 .part23{
 		width: 480px;
-		height: 500px;
+		height: 300px;
 		float: left;
 		position: relative;
 		margin-top: 30px;
 	}
 	.section2 .part231{
 		width: 100px;
-		height: 500px;
 		float: left;
 		position: relative;
 	}
 	.section2 .part232{
 		width: 380px;
-		height: 500px;
 		float: left;
 		position: relative;
 	}
 	.section3 {
-		padding-top: 90px;
+		padding-top: 80px;
 		padding-left: 8px;
 	}
 	.section3 .text31{
@@ -442,7 +440,7 @@
 		text-decoration: none;
 	}
 	.section4 {
-		padding-top: 60px;
+		padding-top: 50px;
 		padding-left: 10px;
 	}
 	.section4 .part41 .topic{
@@ -453,10 +451,8 @@
 		width: 90%;
 		margin-top: 0px;
 		background-color: #fff;
-		font-size: 14px;
+		font-size: 12px;
 	}
-	.section4 .part41 .wall .show .pict{
-		//margin-bottom: 10px;
 	}
 	.section4 .part41 .wall a{
 		text-decoration: none;
@@ -464,25 +460,25 @@
 	}
 	.section4 .part41 .wall .show .pic1{
 		width: 100%;
-		height: 132px;
+		height: 134px;
 		background-image: url(../image/img01.png);
 		background-size:cover;
 	}
 	.section4 .part41 .wall .show .pic2{
 		width: 100%;
-		height: 132px;
+		height: 134px;
 		background-image: url(../image/img02.png);
 		background-size:cover;
 	}
 	.section4 .part41 .wall .show .pic3{
 		width: 100%;
-		height: 132px;
+		height: 134px;
 		background-image: url(../image/img03.png);
 		background-size:cover;
 	}
 	.section4 .part41 .wall .show .pic4{
 		width: 100%;
-		height: 132px;
+		height: 134px;
 		background-image: url(../image/img04.png);
 		background-size:cover;
 	}
